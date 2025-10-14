@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rori-moleko.github.io/mywebsite/sitemap.xml
